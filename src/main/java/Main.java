@@ -5,8 +5,12 @@ public class Main {
         // Logic logicPuzzle = new Logic();
         // System.out.println(logicPuzzle.checkCorrect());
         
-		    ForLoop forloop = new ForLoop();
-            forloop.forLoop();
-		    System.out.println(forloop.checkCorrect());
+		    // ForLoop forloop = new ForLoop();
+            // forloop.forLoop();
+		    // System.out.println(forloop.checkCorrect());
+
+            SwitchTest switchtest = new SwitchTest();
+            switchtest.checkCorrect();
+		    System.out.println(switchtest.checkCorrect());
     }
 }
