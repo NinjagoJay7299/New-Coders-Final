@@ -1,5 +1,5 @@
 package main.java;
-// utilize your knowledge of if statement such that you cna calculate if you have enough food for you and your dogs to survive 
+// utilize your knowledge of if statement such that you can calculate if you have enough food for you and your dogs to survive 
 public class iftest {
     boolean a = false;
     boolean b = true;

@@ -12,4 +12,5 @@ public class Enums {
     public void Check(Day day, Flavor flavor) {
         
     }
+    public Enums(){}
 }
